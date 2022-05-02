@@ -1,9 +1,11 @@
 Hi 👋 My name is Matteo Ferrone
 ===============================
+
 Software consultant
 -------------------
+
 * 🌍  I'm based in Rome
-* 🖥️  See my portfolio at [Mattepuffo.com](http://https://wwww.mattepuffo.com)
+* 🖥️  See my portfolio at [Mattepuffo.com](https://wwww.mattepuffo.com){:target="_blank"}
 * ✉️  You can contact me at [matteo.ferrone@yahoo.it](mailto:matteo.ferrone@yahoo.it)
 
 ### Skills
