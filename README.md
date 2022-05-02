@@ -5,7 +5,7 @@ Software consultant
 -------------------
 
 * 🌍  I'm based in Rome
-* 🖥️  See my portfolio at [Mattepuffo.com](https://wwww.mattepuffo.com){target="_blank"}
+* 🖥️  See my portfolio at [Mattepuffo.com](https://www.mattepuffo.com){:target="_blank"}
 * ✉️  You can contact me at [matteo.ferrone@yahoo.it](mailto:matteo.ferrone@yahoo.it)
 
 ### Skills
